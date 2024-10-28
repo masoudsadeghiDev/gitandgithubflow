@@ -190,5 +190,5 @@ In addition to the main branches, Git Flow defines several supporting branches t
 Git Flow is a good choice for projects with planned release cycles or larger teams where feature segregation is important.
 
 # Useful links
-[Understanding GitHub Flow and Git Flow ] (https://medium.com/@yanminthwin/understanding-github-flow-and-git-flow-957bc6e12220)
-[git-flow cheatsheet] (https://danielkummer.github.io/git-flow-cheatsheet/)
+[Understanding GitHub Flow and Git Flow ](https://medium.com/@yanminthwin/understanding-github-flow-and-git-flow-957bc6e12220)
+[git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
